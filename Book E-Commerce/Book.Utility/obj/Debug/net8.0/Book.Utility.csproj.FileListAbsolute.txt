@@ -1,0 +1,12 @@
+E:\.NET Projects\Book E-Commerce App\Book-E-Commerce-App\Book E-Commerce\Book.Utility\bin\Debug\net8.0\Book.Utility.deps.json
+E:\.NET Projects\Book E-Commerce App\Book-E-Commerce-App\Book E-Commerce\Book.Utility\bin\Debug\net8.0\Book.Utility.dll
+E:\.NET Projects\Book E-Commerce App\Book-E-Commerce-App\Book E-Commerce\Book.Utility\bin\Debug\net8.0\Book.Utility.pdb
+E:\.NET Projects\Book E-Commerce App\Book-E-Commerce-App\Book E-Commerce\Book.Utility\obj\Debug\net8.0\Book.Utility.GeneratedMSBuildEditorConfig.editorconfig
+E:\.NET Projects\Book E-Commerce App\Book-E-Commerce-App\Book E-Commerce\Book.Utility\obj\Debug\net8.0\Book.Utility.AssemblyInfoInputs.cache
+E:\.NET Projects\Book E-Commerce App\Book-E-Commerce-App\Book E-Commerce\Book.Utility\obj\Debug\net8.0\Book.Utility.AssemblyInfo.cs
+E:\.NET Projects\Book E-Commerce App\Book-E-Commerce-App\Book E-Commerce\Book.Utility\obj\Debug\net8.0\Book.Utility.csproj.CoreCompileInputs.cache
+E:\.NET Projects\Book E-Commerce App\Book-E-Commerce-App\Book E-Commerce\Book.Utility\obj\Debug\net8.0\Book.Utility.sourcelink.json
+E:\.NET Projects\Book E-Commerce App\Book-E-Commerce-App\Book E-Commerce\Book.Utility\obj\Debug\net8.0\Book.Utility.dll
+E:\.NET Projects\Book E-Commerce App\Book-E-Commerce-App\Book E-Commerce\Book.Utility\obj\Debug\net8.0\refint\Book.Utility.dll
+E:\.NET Projects\Book E-Commerce App\Book-E-Commerce-App\Book E-Commerce\Book.Utility\obj\Debug\net8.0\Book.Utility.pdb
+E:\.NET Projects\Book E-Commerce App\Book-E-Commerce-App\Book E-Commerce\Book.Utility\obj\Debug\net8.0\ref\Book.Utility.dll
