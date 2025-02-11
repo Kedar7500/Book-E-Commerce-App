@@ -19,8 +19,4 @@
     <ProjectReference Include="..\Book.Models\Book.Models.csproj" />
   </ItemGroup>
 
-  <ItemGroup>
-    <Folder Include="Repository\" />
-  </ItemGroup>
-
 </Project>

@@ -3,13 +3,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.11.35431.28
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Book E-Commerce", "Book E-Commerce\Book E-Commerce.csproj", "{6E6E4FDC-5CE6-4BBB-B6A4-E774408C38F6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Book_E_Commerce", "Book E-Commerce\Book_E_Commerce.csproj", "{6E6E4FDC-5CE6-4BBB-B6A4-E774408C38F6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Book.Utility", "Book.Utility\Book.Utility.csproj", "{61956C31-79D6-47E3-9460-C5DF46CB3E9D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Book.Utility", "Book.Utility\Book.Utility.csproj", "{61956C31-79D6-47E3-9460-C5DF46CB3E9D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Book.Models", "Book.Models\Book.Models.csproj", "{74491A48-4CA6-4B13-B651-18212B61BB55}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Book.Models", "Book.Models\Book.Models.csproj", "{74491A48-4CA6-4B13-B651-18212B61BB55}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Book.DataAccess", "Book.DataAccess\Book.DataAccess.csproj", "{1A6758A7-A394-4453-AAEA-5B2DA66579C3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Book.DataAccess", "Book.DataAccess\Book.DataAccess.csproj", "{1A6758A7-A394-4453-AAEA-5B2DA66579C3}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

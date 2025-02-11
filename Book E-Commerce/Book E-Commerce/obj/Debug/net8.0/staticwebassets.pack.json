@@ -1,8 +1,8 @@
 {
   "Files": [
     {
-      "Id": "E:\\.NET Projects\\Book E-Commerce App\\Book-E-Commerce-App\\Book E-Commerce\\Book E-Commerce\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Book E-Commerce.bundle.scp.css",
-      "PackagePath": "staticwebassets\\Book E-Commerce.bundle.scp.css"
+      "Id": "E:\\.NET Projects\\Book E-Commerce App\\Book-E-Commerce-App\\Book E-Commerce\\Book E-Commerce\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Book_E_Commerce.bundle.scp.css",
+      "PackagePath": "staticwebassets\\Book_E_Commerce.bundle.scp.css"
     },
     {
       "Id": "E:\\.NET Projects\\Book E-Commerce App\\Book-E-Commerce-App\\Book E-Commerce\\Book E-Commerce\\wwwroot\\css\\site.css",
@@ -217,20 +217,20 @@
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
-      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Book E-Commerce.Microsoft.AspNetCore.StaticWebAssets.props",
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Book_E_Commerce.Microsoft.AspNetCore.StaticWebAssets.props",
       "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
     },
     {
-      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.Book E-Commerce.props",
-      "PackagePath": "build\\Book E-Commerce.props"
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.Book_E_Commerce.props",
+      "PackagePath": "build\\Book_E_Commerce.props"
     },
     {
-      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.Book E-Commerce.props",
-      "PackagePath": "buildMultiTargeting\\Book E-Commerce.props"
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.Book_E_Commerce.props",
+      "PackagePath": "buildMultiTargeting\\Book_E_Commerce.props"
     },
     {
-      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.Book E-Commerce.props",
-      "PackagePath": "buildTransitive\\Book E-Commerce.props"
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.Book_E_Commerce.props",
+      "PackagePath": "buildTransitive\\Book_E_Commerce.props"
     }
   ],
   "ElementsToRemove": []
