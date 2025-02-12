@@ -1,6 +1,9 @@
 ﻿using Book.DataAccess.Repository.IRepository;
 using Book.Models;
+using Book.Models.ViewModels;
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.AspNetCore.Mvc.Rendering;
+using System.Collections.Generic;
 
 namespace Book_E_Commerce.Areas.Admin.Controllers
 {
@@ -8,22 +11,46 @@ namespace Book_E_Commerce.Areas.Admin.Controllers
     public class ProductController : Controller
     {
         private readonly IProductRepository productRepository;
+        private readonly ICategoryRepository categoryRepository;
 
-        public ProductController(IProductRepository productRepository)
+        public ProductController(IProductRepository productRepository, ICategoryRepository categoryRepository)
         {
             this.productRepository = productRepository;
+            this.categoryRepository = categoryRepository;
         }
 
         public IActionResult Index()
         {
             List<Product> products = productRepository.GetAll().ToList();
+
+
             return View(products);
         }
 
         [HttpGet]
         public IActionResult Create()
         {
-            return View();
+
+            // retrieve category list here using projections in EF Core
+            //IEnumerable<SelectListItem> categoryList = categoryRepository.GetAll().Select(u => new SelectListItem
+            //{
+            //    Text = u.Name,
+            //    Value = u.Id.ToString(),
+            //});
+
+            //ViewBag.CategoryList = categoryList;
+
+            ProductVM productVM = new ProductVM
+            {
+                CategoryList =  categoryRepository.GetAll().Select(u => new SelectListItem
+                {
+                    Text = u.Name,
+                    Value = u.Id.ToString(),
+                }),
+                Product = new Product()
+            };
+
+            return View(productVM);
         }
 
         [HttpPost]
@@ -33,11 +60,17 @@ namespace Book_E_Commerce.Areas.Admin.Controllers
             {
                 return NotFound();
             }
+            if (ModelState.IsValid)
+            {
+                productRepository.Add(product);
+                TempData["success"] = "product created successfully";
+                productRepository.Save();
 
-            productRepository.Add(product);
-            productRepository.Save();
+                return RedirectToAction("Index");
+            }
 
-            return RedirectToAction("Index");
+            return View(product);
+         
         }
 
         [HttpGet]
@@ -65,10 +98,16 @@ namespace Book_E_Commerce.Areas.Admin.Controllers
                 return NotFound();
             }
 
-            productRepository.Update(product);
-            productRepository.Save();
+            if (ModelState.IsValid)
+            {
+                productRepository.Update(product);
+                TempData["success"] = "product updated successfully";
+                productRepository.Save();
 
-            return RedirectToAction("Index");
+                return RedirectToAction("Index");
+            }
+
+            return View();
         }
 
         public IActionResult Delete(int id)
@@ -99,6 +138,7 @@ namespace Book_E_Commerce.Areas.Admin.Controllers
             Product? product = productRepository.Get(u => u.Id == id);
 
             productRepository.Remove(product);
+            TempData["success"] = "product deleted successfully";
             productRepository.Save();
 
             return RedirectToAction("Index");

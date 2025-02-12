@@ -262,3 +262,11 @@ E:\.NET Projects\Book E-Commerce App\Book-E-Commerce-App\Book E-Commerce\Book E-
 E:\.NET Projects\Book E-Commerce App\Book-E-Commerce-App\Book E-Commerce\Book E-Commerce\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Drawing.Common.dll
 E:\.NET Projects\Book E-Commerce App\Book-E-Commerce-App\Book E-Commerce\Book E-Commerce\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Security.Cryptography.ProtectedData.dll
 E:\.NET Projects\Book E-Commerce App\Book-E-Commerce-App\Book E-Commerce\Book E-Commerce\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Windows.Extensions.dll
+E:\.NET Projects\Book E-Commerce App\Book-E-Commerce-App\Book E-Commerce\Book E-Commerce\bin\Debug\net8.0\System.Web.Mvc.dll
+E:\.NET Projects\Book E-Commerce App\Book-E-Commerce-App\Book E-Commerce\Book E-Commerce\bin\Debug\net8.0\System.Web.Razor.dll
+E:\.NET Projects\Book E-Commerce App\Book-E-Commerce-App\Book E-Commerce\Book E-Commerce\bin\Debug\net8.0\System.Web.Helpers.dll
+E:\.NET Projects\Book E-Commerce App\Book-E-Commerce-App\Book E-Commerce\Book E-Commerce\bin\Debug\net8.0\System.Web.WebPages.Deployment.dll
+E:\.NET Projects\Book E-Commerce App\Book-E-Commerce-App\Book E-Commerce\Book E-Commerce\bin\Debug\net8.0\System.Web.WebPages.Razor.dll
+E:\.NET Projects\Book E-Commerce App\Book-E-Commerce-App\Book E-Commerce\Book E-Commerce\bin\Debug\net8.0\System.Web.WebPages.dll
+E:\.NET Projects\Book E-Commerce App\Book-E-Commerce-App\Book E-Commerce\Book E-Commerce\bin\Debug\net8.0\Microsoft.Web.Infrastructure.dll
+E:\.NET Projects\Book E-Commerce App\Book-E-Commerce-App\Book E-Commerce\Book E-Commerce\obj\Debug\net8.0\Book_E_Commerce.MvcApplicationPartsAssemblyInfo.cs
