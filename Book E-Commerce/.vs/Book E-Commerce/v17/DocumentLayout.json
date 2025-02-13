@@ -3,40 +3,32 @@
   "WorkspaceRootPath": "E:\\.NET Projects\\Book E-Commerce App\\Book-E-Commerce-App\\Book E-Commerce\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6E6E4FDC-5CE6-4BBB-B6A4-E774408C38F6}|Book E-Commerce\\Book_E_Commerce.csproj|e:\\.net projects\\book e-commerce app\\book-e-commerce-app\\book e-commerce\\book e-commerce\\areas\\admin\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6E6E4FDC-5CE6-4BBB-B6A4-E774408C38F6}|Book E-Commerce\\Book_E_Commerce.csproj|solutionrelative:book e-commerce\\areas\\admin\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6E6E4FDC-5CE6-4BBB-B6A4-E774408C38F6}|Book E-Commerce\\Book_E_Commerce.csproj|e:\\.net projects\\book e-commerce app\\book-e-commerce-app\\book e-commerce\\book e-commerce\\areas\\customer\\views\\home\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6E6E4FDC-5CE6-4BBB-B6A4-E774408C38F6}|Book E-Commerce\\Book_E_Commerce.csproj|solutionrelative:book e-commerce\\areas\\customer\\views\\home\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6E6E4FDC-5CE6-4BBB-B6A4-E774408C38F6}|Book E-Commerce\\Book_E_Commerce.csproj|e:\\.net projects\\book e-commerce app\\book-e-commerce-app\\book e-commerce\\book e-commerce\\areas\\admin\\views\\product\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{6E6E4FDC-5CE6-4BBB-B6A4-E774408C38F6}|Book E-Commerce\\Book_E_Commerce.csproj|solutionrelative:book e-commerce\\areas\\admin\\views\\product\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{6E6E4FDC-5CE6-4BBB-B6A4-E774408C38F6}|Book E-Commerce\\Book_E_Commerce.csproj|e:\\.net projects\\book e-commerce app\\book-e-commerce-app\\book e-commerce\\book e-commerce\\areas\\customer\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6E6E4FDC-5CE6-4BBB-B6A4-E774408C38F6}|Book E-Commerce\\Book_E_Commerce.csproj|solutionrelative:book e-commerce\\areas\\customer\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{74491A48-4CA6-4B13-B651-18212B61BB55}|Book.Models\\Book.Models.csproj|e:\\.net projects\\book e-commerce app\\book-e-commerce-app\\book e-commerce\\book.models\\viewmodels\\productvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{74491A48-4CA6-4B13-B651-18212B61BB55}|Book.Models\\Book.Models.csproj|solutionrelative:book.models\\viewmodels\\productvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6E6E4FDC-5CE6-4BBB-B6A4-E774408C38F6}|Book E-Commerce\\Book_E_Commerce.csproj|e:\\.net projects\\book e-commerce app\\book-e-commerce-app\\book e-commerce\\book e-commerce\\areas\\customer\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E6E4FDC-5CE6-4BBB-B6A4-E774408C38F6}|Book E-Commerce\\Book_E_Commerce.csproj|solutionrelative:book e-commerce\\areas\\customer\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6E6E4FDC-5CE6-4BBB-B6A4-E774408C38F6}|Book E-Commerce\\Book_E_Commerce.csproj|e:\\.net projects\\book e-commerce app\\book-e-commerce-app\\book e-commerce\\book e-commerce\\areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{6E6E4FDC-5CE6-4BBB-B6A4-E774408C38F6}|Book E-Commerce\\Book_E_Commerce.csproj|solutionrelative:book e-commerce\\areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{74491A48-4CA6-4B13-B651-18212B61BB55}|Book.Models\\Book.Models.csproj|e:\\.net projects\\book e-commerce app\\book-e-commerce-app\\book e-commerce\\book.models\\book.models.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{74491A48-4CA6-4B13-B651-18212B61BB55}|Book.Models\\Book.Models.csproj|solutionrelative:book.models\\book.models.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{6E6E4FDC-5CE6-4BBB-B6A4-E774408C38F6}|Book E-Commerce\\Book_E_Commerce.csproj|e:\\.net projects\\book e-commerce app\\book-e-commerce-app\\book e-commerce\\book e-commerce\\wwwroot\\js\\product.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{6E6E4FDC-5CE6-4BBB-B6A4-E774408C38F6}|Book E-Commerce\\Book_E_Commerce.csproj|solutionrelative:book e-commerce\\wwwroot\\js\\product.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{6E6E4FDC-5CE6-4BBB-B6A4-E774408C38F6}|Book E-Commerce\\Book_E_Commerce.csproj|e:\\.net projects\\book e-commerce app\\book-e-commerce-app\\book e-commerce\\book e-commerce\\areas\\admin\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{6E6E4FDC-5CE6-4BBB-B6A4-E774408C38F6}|Book E-Commerce\\Book_E_Commerce.csproj|solutionrelative:book e-commerce\\areas\\admin\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\.NET Projects\\Book E-Commerce App\\Book-E-Commerce-App\\Book E-Commerce\\Book.DataAccess\\Migrations\\20250212074440_addedimageurltoproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Book.DataAccess\\Migrations\\20250212074440_addedimageurltoproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6E6E4FDC-5CE6-4BBB-B6A4-E774408C38F6}|Book E-Commerce\\Book_E_Commerce.csproj|e:\\.net projects\\book e-commerce app\\book-e-commerce-app\\book e-commerce\\book e-commerce\\areas\\admin\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E6E4FDC-5CE6-4BBB-B6A4-E774408C38F6}|Book E-Commerce\\Book_E_Commerce.csproj|solutionrelative:book e-commerce\\areas\\admin\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1A6758A7-A394-4453-AAEA-5B2DA66579C3}|Book.DataAccess\\Book.DataAccess.csproj|e:\\.net projects\\book e-commerce app\\book-e-commerce-app\\book e-commerce\\book.dataaccess\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1A6758A7-A394-4453-AAEA-5B2DA66579C3}|Book.DataAccess\\Book.DataAccess.csproj|solutionrelative:book.dataaccess\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{74491A48-4CA6-4B13-B651-18212B61BB55}|Book.Models\\Book.Models.csproj|e:\\.net projects\\book e-commerce app\\book-e-commerce-app\\book e-commerce\\book.models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{74491A48-4CA6-4B13-B651-18212B61BB55}|Book.Models\\Book.Models.csproj|solutionrelative:book.models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6E6E4FDC-5CE6-4BBB-B6A4-E774408C38F6}|Book E-Commerce\\Book_E_Commerce.csproj|e:\\.net projects\\book e-commerce app\\book-e-commerce-app\\book e-commerce\\book e-commerce\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6E6E4FDC-5CE6-4BBB-B6A4-E774408C38F6}|Book E-Commerce\\Book_E_Commerce.csproj|solutionrelative:book e-commerce\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -46,124 +38,92 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "_ViewImports.cshtml",
-              "DocumentMoniker": "E:\\.NET Projects\\Book E-Commerce App\\Book-E-Commerce-App\\Book E-Commerce\\Book E-Commerce\\Areas\\Admin\\Views\\_ViewImports.cshtml",
-              "RelativeDocumentMoniker": "Book E-Commerce\\Areas\\Admin\\Views\\_ViewImports.cshtml",
-              "ToolTip": "E:\\.NET Projects\\Book E-Commerce App\\Book-E-Commerce-App\\Book E-Commerce\\Book E-Commerce\\Areas\\Admin\\Views\\_ViewImports.cshtml",
-              "RelativeToolTip": "Book E-Commerce\\Areas\\Admin\\Views\\_ViewImports.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAeAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "E:\\.NET Projects\\Book E-Commerce App\\Book-E-Commerce-App\\Book E-Commerce\\Book E-Commerce\\Areas\\Customer\\Views\\Home\\Details.cshtml",
+              "RelativeDocumentMoniker": "Book E-Commerce\\Areas\\Customer\\Views\\Home\\Details.cshtml",
+              "ToolTip": "E:\\.NET Projects\\Book E-Commerce App\\Book-E-Commerce-App\\Book E-Commerce\\Book E-Commerce\\Areas\\Customer\\Views\\Home\\Details.cshtml",
+              "RelativeToolTip": "Book E-Commerce\\Areas\\Customer\\Views\\Home\\Details.cshtml",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAAEYAAABGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-12T08:34:51.469Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "ProductVM.cs",
-              "DocumentMoniker": "E:\\.NET Projects\\Book E-Commerce App\\Book-E-Commerce-App\\Book E-Commerce\\Book.Models\\ViewModels\\ProductVM.cs",
-              "RelativeDocumentMoniker": "Book.Models\\ViewModels\\ProductVM.cs",
-              "ToolTip": "E:\\.NET Projects\\Book E-Commerce App\\Book-E-Commerce-App\\Book E-Commerce\\Book.Models\\ViewModels\\ProductVM.cs",
-              "RelativeToolTip": "Book.Models\\ViewModels\\ProductVM.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAgAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-12T08:24:46.881Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Book.Models",
-              "DocumentMoniker": "E:\\.NET Projects\\Book E-Commerce App\\Book-E-Commerce-App\\Book E-Commerce\\Book.Models\\Book.Models.csproj",
-              "RelativeDocumentMoniker": "Book.Models\\Book.Models.csproj",
-              "ToolTip": "E:\\.NET Projects\\Book E-Commerce App\\Book-E-Commerce-App\\Book E-Commerce\\Book.Models\\Book.Models.csproj",
-              "RelativeToolTip": "Book.Models\\Book.Models.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-02-12T08:24:17.261Z",
+              "WhenOpened": "2025-02-13T12:48:50.23Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "E:\\.NET Projects\\Book E-Commerce App\\Book-E-Commerce-App\\Book E-Commerce\\Book E-Commerce\\Areas\\Admin\\Views\\Product\\Create.cshtml",
-              "RelativeDocumentMoniker": "Book E-Commerce\\Areas\\Admin\\Views\\Product\\Create.cshtml",
-              "ToolTip": "E:\\.NET Projects\\Book E-Commerce App\\Book-E-Commerce-App\\Book E-Commerce\\Book E-Commerce\\Areas\\Admin\\Views\\Product\\Create.cshtml",
-              "RelativeToolTip": "Book E-Commerce\\Areas\\Admin\\Views\\Product\\Create.cshtml",
-              "ViewState": "AgIAADYAAAAAAAAAAAAAADsAAABSAAAAAAAAAA==",
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\.NET Projects\\Book E-Commerce App\\Book-E-Commerce-App\\Book E-Commerce\\Book E-Commerce\\Areas\\Customer\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Book E-Commerce\\Areas\\Customer\\Views\\Home\\Index.cshtml",
+              "ToolTip": "E:\\.NET Projects\\Book E-Commerce App\\Book-E-Commerce-App\\Book E-Commerce\\Book E-Commerce\\Areas\\Customer\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Book E-Commerce\\Areas\\Customer\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAB0AAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-12T08:10:35.412Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-13T12:18:30.924Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "20250212074440_addedimageurltoproduct.cs",
-              "DocumentMoniker": "E:\\.NET Projects\\Book E-Commerce App\\Book-E-Commerce-App\\Book E-Commerce\\Book.DataAccess\\Migrations\\20250212074440_addedimageurltoproduct.cs",
-              "RelativeDocumentMoniker": "Book.DataAccess\\Migrations\\20250212074440_addedimageurltoproduct.cs",
-              "ToolTip": "E:\\.NET Projects\\Book E-Commerce App\\Book-E-Commerce-App\\Book E-Commerce\\Book.DataAccess\\Migrations\\20250212074440_addedimageurltoproduct.cs",
-              "RelativeToolTip": "Book.DataAccess\\Migrations\\20250212074440_addedimageurltoproduct.cs",
-              "ViewState": "AgIAADEAAAAAAAAAAAAkwAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "E:\\.NET Projects\\Book E-Commerce App\\Book-E-Commerce-App\\Book E-Commerce\\Book E-Commerce\\Areas\\Customer\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Book E-Commerce\\Areas\\Customer\\Controllers\\HomeController.cs",
+              "ToolTip": "E:\\.NET Projects\\Book E-Commerce App\\Book-E-Commerce-App\\Book E-Commerce\\Book E-Commerce\\Areas\\Customer\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Book E-Commerce\\Areas\\Customer\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAkwBoAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-12T07:44:40.921Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-13T12:14:44.972Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "ProductController.cs",
-              "DocumentMoniker": "E:\\.NET Projects\\Book E-Commerce App\\Book-E-Commerce-App\\Book E-Commerce\\Book E-Commerce\\Areas\\Admin\\Controllers\\ProductController.cs",
-              "RelativeDocumentMoniker": "Book E-Commerce\\Areas\\Admin\\Controllers\\ProductController.cs",
-              "ToolTip": "E:\\.NET Projects\\Book E-Commerce App\\Book-E-Commerce-App\\Book E-Commerce\\Book E-Commerce\\Areas\\Admin\\Controllers\\ProductController.cs",
-              "RelativeToolTip": "Book E-Commerce\\Areas\\Admin\\Controllers\\ProductController.cs",
-              "ViewState": "AgIAACYAAAAAAAAAAAAIwCcAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-12T07:38:23.038Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 4,
               "Title": "Index.cshtml",
               "DocumentMoniker": "E:\\.NET Projects\\Book E-Commerce App\\Book-E-Commerce-App\\Book E-Commerce\\Book E-Commerce\\Areas\\Admin\\Views\\Product\\Index.cshtml",
               "RelativeDocumentMoniker": "Book E-Commerce\\Areas\\Admin\\Views\\Product\\Index.cshtml",
               "ToolTip": "E:\\.NET Projects\\Book E-Commerce App\\Book-E-Commerce-App\\Book E-Commerce\\Book E-Commerce\\Areas\\Admin\\Views\\Product\\Index.cshtml",
               "RelativeToolTip": "Book E-Commerce\\Areas\\Admin\\Views\\Product\\Index.cshtml",
-              "ViewState": "AgIAABUAAAAAAAAAAAAAACcAAAAUAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAABSAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-12T07:16:17.668Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-13T08:50:48.145Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "ApplicationDbContext.cs",
-              "DocumentMoniker": "E:\\.NET Projects\\Book E-Commerce App\\Book-E-Commerce-App\\Book E-Commerce\\Book.DataAccess\\Data\\ApplicationDbContext.cs",
-              "RelativeDocumentMoniker": "Book.DataAccess\\Data\\ApplicationDbContext.cs",
-              "ToolTip": "E:\\.NET Projects\\Book E-Commerce App\\Book-E-Commerce-App\\Book E-Commerce\\Book.DataAccess\\Data\\ApplicationDbContext.cs",
-              "RelativeToolTip": "Book.DataAccess\\Data\\ApplicationDbContext.cs",
-              "ViewState": "AgIAAGcAAAAAAAAAAAAAAG0AAAAeAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-12T06:59:31.118Z",
-              "EditorCaption": ""
+              "DocumentIndex": 3,
+              "Title": "product.js",
+              "DocumentMoniker": "E:\\.NET Projects\\Book E-Commerce App\\Book-E-Commerce-App\\Book E-Commerce\\Book E-Commerce\\wwwroot\\js\\product.js",
+              "RelativeDocumentMoniker": "Book E-Commerce\\wwwroot\\js\\product.js",
+              "ToolTip": "E:\\.NET Projects\\Book E-Commerce App\\Book-E-Commerce-App\\Book E-Commerce\\Book E-Commerce\\wwwroot\\js\\product.js",
+              "RelativeToolTip": "Book E-Commerce\\wwwroot\\js\\product.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-02-13T08:41:01.704Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Product.cs",
-              "DocumentMoniker": "E:\\.NET Projects\\Book E-Commerce App\\Book-E-Commerce-App\\Book E-Commerce\\Book.Models\\Product.cs",
-              "RelativeDocumentMoniker": "Book.Models\\Product.cs",
-              "ToolTip": "E:\\.NET Projects\\Book E-Commerce App\\Book-E-Commerce-App\\Book E-Commerce\\Book.Models\\Product.cs",
-              "RelativeToolTip": "Book.Models\\Product.cs",
-              "ViewState": "AgIAAC8AAAAAAAAAAAAUwDgAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 5,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "E:\\.NET Projects\\Book E-Commerce App\\Book-E-Commerce-App\\Book E-Commerce\\Book E-Commerce\\Areas\\Admin\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "Book E-Commerce\\Areas\\Admin\\Controllers\\ProductController.cs",
+              "ToolTip": "E:\\.NET Projects\\Book E-Commerce App\\Book-E-Commerce-App\\Book E-Commerce\\Book E-Commerce\\Areas\\Admin\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "Book E-Commerce\\Areas\\Admin\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAUwKsAAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-12T05:56:36.669Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-13T08:36:36.765Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "E:\\.NET Projects\\Book E-Commerce App\\Book-E-Commerce-App\\Book E-Commerce\\Book E-Commerce\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Book E-Commerce\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "E:\\.NET Projects\\Book E-Commerce App\\Book-E-Commerce-App\\Book E-Commerce\\Book E-Commerce\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Book E-Commerce\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAADMAAAAAAAAAAAAAAEEAAABcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-13T08:31:10.486Z"
             }
           ]
         }

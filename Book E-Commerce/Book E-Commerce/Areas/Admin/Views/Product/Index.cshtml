@@ -13,12 +13,12 @@
             <div class="col-6">
             </div>
             <div class="col-6 text-end">
-                <a asp-controller="Product" asp-action="Create" class="btn btn-primary">
+                <a asp-controller="Product" asp-action="Upsert" class="btn btn-primary">
                     <i class="bi bi-plus-circle"></i>  Create New Product
                 </a>
             </div>
         </div>
-    <table class="table table-bordered table-striped">
+        <table id="tblData" class="table table-bordered table-striped" width="100%">
         <thead>
             <tr>
                 <th class="text-center">Book Title</th>
@@ -29,27 +29,10 @@
                 <th></th>
             </tr>
         </thead>
-        <tbody>
-            @foreach(var obj in Model)
-            {
-                <tr>
-                <td>@obj.Title</td>
-                <td>@obj.Author</td>
-                <td>@obj.ISBN</td>
-                <td>@obj.Price</td>
-                <td></td>
-                <td>
-                    <div class="w-75 btn-group" role="group">
-                        <a asp-controller="Product" asp-action="Edit" asp-route-id="@obj.Id" class="btn btn-primary mx-2">
-                            <i class="bi bi-pencil-square"></i>EDIT
-                        </a>
-                        <a asp-controller="Product" asp-action="Delete" asp-route-id="@obj.Id" class="btn btn-danger mx-2">
-                            <i class="bi bi-trash3"></i>DELETE
-                        </a>
-                    </div>
-                </td>
-                </tr>
-            }
-        </tbody>
     </table>
 </div>
+
+@section Scripts {
+
+    <script src="~/js/product.js"></script>
+}
