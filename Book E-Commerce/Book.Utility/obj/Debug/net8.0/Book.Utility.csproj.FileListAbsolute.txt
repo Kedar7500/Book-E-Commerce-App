@@ -10,3 +10,4 @@ E:\.NET Projects\Book E-Commerce App\Book-E-Commerce-App\Book E-Commerce\Book.Ut
 E:\.NET Projects\Book E-Commerce App\Book-E-Commerce-App\Book E-Commerce\Book.Utility\obj\Debug\net8.0\refint\Book.Utility.dll
 E:\.NET Projects\Book E-Commerce App\Book-E-Commerce-App\Book E-Commerce\Book.Utility\obj\Debug\net8.0\Book.Utility.pdb
 E:\.NET Projects\Book E-Commerce App\Book-E-Commerce-App\Book E-Commerce\Book.Utility\obj\Debug\net8.0\ref\Book.Utility.dll
+E:\.NET Projects\Book E-Commerce App\Book-E-Commerce-App\Book E-Commerce\Book.Utility\obj\Debug\net8.0\Book.Utility.csproj.AssemblyReference.cache
