@@ -26,7 +26,7 @@ namespace Book_E_Commerce.Areas.Admin.Controllers
 
         public IActionResult Index()
         {
-            List<Product> products = productRepository.GetAll(includeProperties:"Category").ToList();
+            List<Product> products = productRepository.GetAll(includeProperties: "Category").ToList();
 
 
             return View(products);
@@ -47,7 +47,7 @@ namespace Book_E_Commerce.Areas.Admin.Controllers
 
             ProductVM productVM = new ProductVM
             {
-                CategoryList =  categoryRepository.GetAll().Select(u => new SelectListItem
+                CategoryList = categoryRepository.GetAll().Select(u => new SelectListItem
                 {
                     Text = u.Name,
                     Value = u.Id.ToString(),
@@ -55,7 +55,7 @@ namespace Book_E_Commerce.Areas.Admin.Controllers
                 Product = new Product()
             };
 
-            if(id == 0 || id == null)
+            if (id == 0 || id == null)
             {
                 return View(productVM);
             }
@@ -80,12 +80,12 @@ namespace Book_E_Commerce.Areas.Admin.Controllers
             {
                 string wwwRootPath = webHostEnvironment.WebRootPath;
 
-                if(file != null)
+                if (file != null)
                 {
-                    string fileName = Guid.NewGuid().ToString() + Path.GetExtension(file.FileName); 
+                    string fileName = Guid.NewGuid().ToString() + Path.GetExtension(file.FileName);
                     string productPath = Path.Combine(wwwRootPath, @"images\products");
 
-                    if(!string.IsNullOrEmpty(productVM.Product.ImageUrl))
+                    if (!string.IsNullOrEmpty(productVM.Product.ImageUrl))
                     {
                         var oldImagePath = Path.Combine(wwwRootPath, productVM.Product.ImageUrl.TrimStart('\\'));
 
@@ -95,7 +95,7 @@ namespace Book_E_Commerce.Areas.Admin.Controllers
                         }
                     }
 
-                    using (var fileStream = new FileStream(Path.Combine(productPath,fileName),FileMode.Create))
+                    using (var fileStream = new FileStream(Path.Combine(productPath, fileName), FileMode.Create))
                     {
                         file.CopyTo(fileStream);
                     }
@@ -103,7 +103,7 @@ namespace Book_E_Commerce.Areas.Admin.Controllers
                     productVM.Product.ImageUrl = @"\images\products\" + fileName;
                 }
 
-                if(productVM.Product.Id == 0)
+                if (productVM.Product.Id == 0)
                 {
                     productRepository.Add(productVM.Product);
                 }
@@ -111,7 +111,7 @@ namespace Book_E_Commerce.Areas.Admin.Controllers
                 {
                     productRepository.Update(productVM.Product);
                 }
-               
+
                 TempData["success"] = "product created successfully";
                 productRepository.Save();
 
@@ -126,44 +126,9 @@ namespace Book_E_Commerce.Areas.Admin.Controllers
                 });
 
                 return View(productVM);
-             
-            }
-         
-        }
 
-        
-        public IActionResult Delete(int id)
-        {
-            if (id == 0)
-            {
-                return NotFound();
             }
 
-            Product? product = productRepository.Get(u => u.Id == id);
-
-            if (product == null)
-            {
-                return NotFound();
-            }
-
-            return View(product);
-        }
-
-        [HttpPost, ActionName("Delete")]
-        public IActionResult DeleteProduct(int? id)
-        {
-            if (id == null)
-            {
-                return NotFound();
-            }
-
-            Product? product = productRepository.Get(u => u.Id == id);
-
-            productRepository.Remove(product);
-            TempData["success"] = "product deleted successfully";
-            productRepository.Save();
-
-            return RedirectToAction("Index");
         }
 
         #region API CALLS
@@ -174,6 +139,31 @@ namespace Book_E_Commerce.Areas.Admin.Controllers
             List<Product> products = productRepository.GetAll(includeProperties: "Category").ToList();
             return Json(new { data = products });
         }
+
+        [HttpDelete]
+        public IActionResult Delete(int? id)
+        {
+            Product product = productRepository.Get(x => x.Id == id);
+
+            if (product == null)
+            {
+                return Json(new { success = false, message = "Error while deleting" });
+            }
+
+            var oldImagePath = Path.Combine(webHostEnvironment.WebRootPath, product.ImageUrl.TrimStart('\\'));
+
+            if (System.IO.File.Exists(oldImagePath))
+            {
+                System.IO.File.Delete(oldImagePath);
+            }
+
+            productRepository.Remove(product);
+            productRepository.Save();
+
+            return Json(new { success = true, message = "Delete Successfull" });
+            
+        }
+
         #endregion
     }
 }

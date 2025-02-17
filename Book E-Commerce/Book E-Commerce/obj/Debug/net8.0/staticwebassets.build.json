@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "Buvgbl9rQrAcPDRGPE39qFvyaU8PeriyYC6eSXPRlG0=",
+  "Hash": "mXtqyVwwC90w8UocVjmpLwoOsxQoGm6wOtuJbQv3pds=",
   "Source": "Book_E_Commerce",
   "BasePath": "_content/Book_E_Commerce",
   "Mode": "Default",
@@ -1328,6 +1328,25 @@
       "OriginalItemSpec": "wwwroot\\images\\products\\535d26e7-f43d-4fa1-ab45-6b5a78331c94.jpg"
     },
     {
+      "Identity": "E:\\.NET Projects\\Book E-Commerce App\\Book-E-Commerce-App\\Book E-Commerce\\Book E-Commerce\\wwwroot\\images\\products\\72a9ab75-b6ba-4337-a302-63dee5f219ec.jpg",
+      "SourceId": "Book_E_Commerce",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\.NET Projects\\Book E-Commerce App\\Book-E-Commerce-App\\Book E-Commerce\\Book E-Commerce\\wwwroot\\",
+      "BasePath": "_content/Book_E_Commerce",
+      "RelativePath": "images/products/72a9ab75-b6ba-4337-a302-63dee5f219ec.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\products\\72a9ab75-b6ba-4337-a302-63dee5f219ec.jpg"
+    },
+    {
       "Identity": "E:\\.NET Projects\\Book E-Commerce App\\Book-E-Commerce-App\\Book E-Commerce\\Book E-Commerce\\wwwroot\\images\\products\\735f1610-2126-4901-a6d3-ea699e1f175b.jpg",
       "SourceId": "Book_E_Commerce",
       "SourceType": "Discovered",
@@ -1383,6 +1402,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\images\\products\\d3649bd8-8d29-4584-ae09-68b4a5a77045.jpg"
+    },
+    {
+      "Identity": "E:\\.NET Projects\\Book E-Commerce App\\Book-E-Commerce-App\\Book E-Commerce\\Book E-Commerce\\wwwroot\\js\\company.js",
+      "SourceId": "Book_E_Commerce",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\.NET Projects\\Book E-Commerce App\\Book-E-Commerce-App\\Book E-Commerce\\Book E-Commerce\\wwwroot\\",
+      "BasePath": "_content/Book_E_Commerce",
+      "RelativePath": "js/company.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\company.js"
     },
     {
       "Identity": "E:\\.NET Projects\\Book E-Commerce App\\Book-E-Commerce-App\\Book E-Commerce\\Book E-Commerce\\wwwroot\\js\\product.js",

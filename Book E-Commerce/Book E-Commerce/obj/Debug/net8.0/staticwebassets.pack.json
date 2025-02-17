@@ -33,6 +33,10 @@
       "PackagePath": "staticwebassets\\images\\products\\535d26e7-f43d-4fa1-ab45-6b5a78331c94.jpg"
     },
     {
+      "Id": "E:\\.NET Projects\\Book E-Commerce App\\Book-E-Commerce-App\\Book E-Commerce\\Book E-Commerce\\wwwroot\\images\\products\\72a9ab75-b6ba-4337-a302-63dee5f219ec.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\72a9ab75-b6ba-4337-a302-63dee5f219ec.jpg"
+    },
+    {
       "Id": "E:\\.NET Projects\\Book E-Commerce App\\Book-E-Commerce-App\\Book E-Commerce\\Book E-Commerce\\wwwroot\\images\\products\\735f1610-2126-4901-a6d3-ea699e1f175b.jpg",
       "PackagePath": "staticwebassets\\images\\products\\735f1610-2126-4901-a6d3-ea699e1f175b.jpg"
     },
@@ -43,6 +47,10 @@
     {
       "Id": "E:\\.NET Projects\\Book E-Commerce App\\Book-E-Commerce-App\\Book E-Commerce\\Book E-Commerce\\wwwroot\\images\\products\\d3649bd8-8d29-4584-ae09-68b4a5a77045.jpg",
       "PackagePath": "staticwebassets\\images\\products\\d3649bd8-8d29-4584-ae09-68b4a5a77045.jpg"
+    },
+    {
+      "Id": "E:\\.NET Projects\\Book E-Commerce App\\Book-E-Commerce-App\\Book E-Commerce\\Book E-Commerce\\wwwroot\\js\\company.js",
+      "PackagePath": "staticwebassets\\js\\company.js"
     },
     {
       "Id": "E:\\.NET Projects\\Book E-Commerce App\\Book-E-Commerce-App\\Book E-Commerce\\Book E-Commerce\\wwwroot\\js\\product.js",
