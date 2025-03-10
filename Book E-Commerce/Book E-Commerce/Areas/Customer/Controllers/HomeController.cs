@@ -24,10 +24,17 @@ namespace Book_E_Commerce.Areas.Customer.Controllers
             return View(productList);
         }
 
-        public IActionResult Details(int? id)
+        public IActionResult Details(int id)
         {
-            Product product = productRepository.Get(u=> u.Id == id, includeProperties: "Category");
-            return View(product);
+            ShoppingCart cart = new ShoppingCart
+            {
+                Product = productRepository.Get(u => u.Id == id, includeProperties: "Category"),
+                Count = 1,
+                ProductId = id,
+
+            };
+            
+            return View(cart);
         }
 
         public IActionResult Privacy()
