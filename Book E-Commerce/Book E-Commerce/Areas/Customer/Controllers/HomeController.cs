@@ -1,8 +1,10 @@
 
 using Book.DataAccess.Repository.IRepository;
 using Book.Models;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using System.Diagnostics;
+using System.Security.Claims;
 
 namespace Book_E_Commerce.Areas.Customer.Controllers
 {
@@ -11,11 +13,13 @@ namespace Book_E_Commerce.Areas.Customer.Controllers
     {
         private readonly ILogger<HomeController> _logger;
         private readonly IProductRepository productRepository;
+        private readonly IShoppingCartRepository shoppingCartRepository;
 
-        public HomeController(ILogger<HomeController> logger, IProductRepository productRepository)
+        public HomeController(ILogger<HomeController> logger, IProductRepository productRepository, IShoppingCartRepository shoppingCartRepository)
         {
             _logger = logger;
             this.productRepository = productRepository;
+            this.shoppingCartRepository = shoppingCartRepository;
         }
 
         public IActionResult Index()
@@ -35,6 +39,20 @@ namespace Book_E_Commerce.Areas.Customer.Controllers
             };
             
             return View(cart);
+        }
+
+        [HttpPost]
+        [Authorize]
+        public IActionResult Details(ShoppingCart shoppingCart)
+        {
+            var claimsIdentity = (ClaimsIdentity)User.Identity;
+            var userId = claimsIdentity.FindFirst(ClaimTypes.NameIdentifier).Value;
+
+            shoppingCart.ApplicationUserId = userId;
+            shoppingCartRepository.Add(shoppingCart);
+            shoppingCartRepository.Save();
+
+            return View();
         }
 
         public IActionResult Privacy()
