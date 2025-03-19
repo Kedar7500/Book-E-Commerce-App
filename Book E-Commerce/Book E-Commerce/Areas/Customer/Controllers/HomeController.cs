@@ -15,11 +15,11 @@ namespace Book_E_Commerce.Areas.Customer.Controllers
         private readonly IProductRepository productRepository;
         private readonly IShoppingCartRepository shoppingCartRepository;
 
-        public HomeController(ILogger<HomeController> logger, IProductRepository productRepository, IShoppingCartRepository shoppingCartRepository)
+        public HomeController(ILogger<HomeController> logger, IProductRepository productRepository, IShoppingCartRepository shoppingCartRepo)
         {
             _logger = logger;
             this.productRepository = productRepository;
-            this.shoppingCartRepository = shoppingCartRepository;
+            this.shoppingCartRepository = shoppingCartRepo;
         }
 
         public IActionResult Index()
@@ -47,12 +47,12 @@ namespace Book_E_Commerce.Areas.Customer.Controllers
         {
             var claimsIdentity = (ClaimsIdentity)User.Identity;
             var userId = claimsIdentity.FindFirst(ClaimTypes.NameIdentifier).Value;
-
+            shoppingCart.Id = 0;
             shoppingCart.ApplicationUserId = userId;
             shoppingCartRepository.Add(shoppingCart);
             shoppingCartRepository.Save();
 
-            return View();
+            return RedirectToAction("Index");
         }
 
         public IActionResult Privacy()
