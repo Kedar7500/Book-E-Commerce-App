@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Book_E_Commerce")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2a00aab6d7c7b5ad42b5977fb9c349b06bf2aed2")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+edae7ec474854c039bd1472bb36d8c959184c3b6")]
 [assembly: System.Reflection.AssemblyProductAttribute("Book_E_Commerce")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Book_E_Commerce")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

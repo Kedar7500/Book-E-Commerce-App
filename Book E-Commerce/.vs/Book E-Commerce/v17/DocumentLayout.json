@@ -3,36 +3,60 @@
   "WorkspaceRootPath": "E:\\.NET Projects\\Book E-Commerce App\\Book-E-Commerce-App\\Book E-Commerce\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6E6E4FDC-5CE6-4BBB-B6A4-E774408C38F6}|Book E-Commerce\\Book_E_Commerce.csproj|e:\\.net projects\\book e-commerce app\\book-e-commerce-app\\book e-commerce\\book e-commerce\\areas\\customer\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6E6E4FDC-5CE6-4BBB-B6A4-E774408C38F6}|Book E-Commerce\\Book_E_Commerce.csproj|solutionrelative:book e-commerce\\areas\\customer\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6E6E4FDC-5CE6-4BBB-B6A4-E774408C38F6}|Book E-Commerce\\Book_E_Commerce.csproj|e:\\.net projects\\book e-commerce app\\book-e-commerce-app\\book e-commerce\\book e-commerce\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6E6E4FDC-5CE6-4BBB-B6A4-E774408C38F6}|Book E-Commerce\\Book_E_Commerce.csproj|solutionrelative:book e-commerce\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E6E4FDC-5CE6-4BBB-B6A4-E774408C38F6}|Book E-Commerce\\Book_E_Commerce.csproj|e:\\.net projects\\book e-commerce app\\book-e-commerce-app\\book e-commerce\\book e-commerce\\areas\\customer\\views\\cart\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6E6E4FDC-5CE6-4BBB-B6A4-E774408C38F6}|Book E-Commerce\\Book_E_Commerce.csproj|solutionrelative:book e-commerce\\areas\\customer\\views\\cart\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E6E4FDC-5CE6-4BBB-B6A4-E774408C38F6}|Book E-Commerce\\Book_E_Commerce.csproj|e:\\.net projects\\book e-commerce app\\book-e-commerce-app\\book e-commerce\\book e-commerce\\areas\\customer\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E6E4FDC-5CE6-4BBB-B6A4-E774408C38F6}|Book E-Commerce\\Book_E_Commerce.csproj|solutionrelative:book e-commerce\\areas\\customer\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E6E4FDC-5CE6-4BBB-B6A4-E774408C38F6}|Book E-Commerce\\Book_E_Commerce.csproj|e:\\.net projects\\book e-commerce app\\book-e-commerce-app\\book e-commerce\\book e-commerce\\areas\\customer\\views\\cart\\summary.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6E6E4FDC-5CE6-4BBB-B6A4-E774408C38F6}|Book E-Commerce\\Book_E_Commerce.csproj|solutionrelative:book e-commerce\\areas\\customer\\views\\cart\\summary.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E6E4FDC-5CE6-4BBB-B6A4-E774408C38F6}|Book E-Commerce\\Book_E_Commerce.csproj|e:\\.net projects\\book e-commerce app\\book-e-commerce-app\\book e-commerce\\book e-commerce\\areas\\customer\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6E6E4FDC-5CE6-4BBB-B6A4-E774408C38F6}|Book E-Commerce\\Book_E_Commerce.csproj|solutionrelative:book e-commerce\\areas\\customer\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74491A48-4CA6-4B13-B651-18212B61BB55}|Book.Models\\Book.Models.csproj|e:\\.net projects\\book e-commerce app\\book-e-commerce-app\\book e-commerce\\book.models\\viewmodels\\shoppingcartvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74491A48-4CA6-4B13-B651-18212B61BB55}|Book.Models\\Book.Models.csproj|solutionrelative:book.models\\viewmodels\\shoppingcartvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{74491A48-4CA6-4B13-B651-18212B61BB55}|Book.Models\\Book.Models.csproj|e:\\.net projects\\book e-commerce app\\book-e-commerce-app\\book e-commerce\\book.models\\shoppingcart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{74491A48-4CA6-4B13-B651-18212B61BB55}|Book.Models\\Book.Models.csproj|solutionrelative:book.models\\shoppingcart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6E6E4FDC-5CE6-4BBB-B6A4-E774408C38F6}|Book E-Commerce\\Book_E_Commerce.csproj|e:\\.net projects\\book e-commerce app\\book-e-commerce-app\\book e-commerce\\book e-commerce\\areas\\customer\\views\\home\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{6E6E4FDC-5CE6-4BBB-B6A4-E774408C38F6}|Book E-Commerce\\Book_E_Commerce.csproj|solutionrelative:book e-commerce\\areas\\customer\\views\\home\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{1A6758A7-A394-4453-AAEA-5B2DA66579C3}|Book.DataAccess\\Book.DataAccess.csproj|e:\\.net projects\\book e-commerce app\\book-e-commerce-app\\book e-commerce\\book.dataaccess\\repository\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1A6758A7-A394-4453-AAEA-5B2DA66579C3}|Book.DataAccess\\Book.DataAccess.csproj|solutionrelative:book.dataaccess\\repository\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1A6758A7-A394-4453-AAEA-5B2DA66579C3}|Book.DataAccess\\Book.DataAccess.csproj|e:\\.net projects\\book e-commerce app\\book-e-commerce-app\\book e-commerce\\book.dataaccess\\repository\\shoppingcartrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1A6758A7-A394-4453-AAEA-5B2DA66579C3}|Book.DataAccess\\Book.DataAccess.csproj|solutionrelative:book.dataaccess\\repository\\shoppingcartrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6E6E4FDC-5CE6-4BBB-B6A4-E774408C38F6}|Book E-Commerce\\Book_E_Commerce.csproj|e:\\.net projects\\book e-commerce app\\book-e-commerce-app\\book e-commerce\\book e-commerce\\areas\\customer\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E6E4FDC-5CE6-4BBB-B6A4-E774408C38F6}|Book E-Commerce\\Book_E_Commerce.csproj|solutionrelative:book e-commerce\\areas\\customer\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6E6E4FDC-5CE6-4BBB-B6A4-E774408C38F6}|Book E-Commerce\\Book_E_Commerce.csproj|e:\\.net projects\\book e-commerce app\\book-e-commerce-app\\book e-commerce\\book e-commerce\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6E6E4FDC-5CE6-4BBB-B6A4-E774408C38F6}|Book E-Commerce\\Book_E_Commerce.csproj|solutionrelative:book e-commerce\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6E6E4FDC-5CE6-4BBB-B6A4-E774408C38F6}|Book E-Commerce\\Book_E_Commerce.csproj|e:\\.net projects\\book e-commerce app\\book-e-commerce-app\\book e-commerce\\book e-commerce\\areas\\identity\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E6E4FDC-5CE6-4BBB-B6A4-E774408C38F6}|Book E-Commerce\\Book_E_Commerce.csproj|solutionrelative:book e-commerce\\areas\\identity\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1A6758A7-A394-4453-AAEA-5B2DA66579C3}|Book.DataAccess\\Book.DataAccess.csproj|e:\\.net projects\\book e-commerce app\\book-e-commerce-app\\book e-commerce\\book.dataaccess\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1A6758A7-A394-4453-AAEA-5B2DA66579C3}|Book.DataAccess\\Book.DataAccess.csproj|solutionrelative:book.dataaccess\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6E6E4FDC-5CE6-4BBB-B6A4-E774408C38F6}|Book E-Commerce\\Book_E_Commerce.csproj|e:\\.net projects\\book e-commerce app\\book-e-commerce-app\\book e-commerce\\book e-commerce\\areas\\admin\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E6E4FDC-5CE6-4BBB-B6A4-E774408C38F6}|Book E-Commerce\\Book_E_Commerce.csproj|solutionrelative:book e-commerce\\areas\\admin\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1A6758A7-A394-4453-AAEA-5B2DA66579C3}|Book.DataAccess\\Book.DataAccess.csproj|e:\\.net projects\\book e-commerce app\\book-e-commerce-app\\book e-commerce\\book.dataaccess\\repository\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1A6758A7-A394-4453-AAEA-5B2DA66579C3}|Book.DataAccess\\Book.DataAccess.csproj|solutionrelative:book.dataaccess\\repository\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1A6758A7-A394-4453-AAEA-5B2DA66579C3}|Book.DataAccess\\Book.DataAccess.csproj|e:\\.net projects\\book e-commerce app\\book-e-commerce-app\\book e-commerce\\book.dataaccess\\repository\\irepository\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A6758A7-A394-4453-AAEA-5B2DA66579C3}|Book.DataAccess\\Book.DataAccess.csproj|solutionrelative:book.dataaccess\\repository\\irepository\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E6E4FDC-5CE6-4BBB-B6A4-E774408C38F6}|Book E-Commerce\\Book_E_Commerce.csproj|e:\\.net projects\\book e-commerce app\\book-e-commerce-app\\book e-commerce\\book e-commerce\\areas\\admin\\controllers\\companycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E6E4FDC-5CE6-4BBB-B6A4-E774408C38F6}|Book E-Commerce\\Book_E_Commerce.csproj|solutionrelative:book e-commerce\\areas\\admin\\controllers\\companycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E6E4FDC-5CE6-4BBB-B6A4-E774408C38F6}|Book E-Commerce\\Book_E_Commerce.csproj|e:\\.net projects\\book e-commerce app\\book-e-commerce-app\\book e-commerce\\book e-commerce\\areas\\admin\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E6E4FDC-5CE6-4BBB-B6A4-E774408C38F6}|Book E-Commerce\\Book_E_Commerce.csproj|solutionrelative:book e-commerce\\areas\\admin\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,110 +66,188 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ShoppingCart.cs",
-              "DocumentMoniker": "E:\\.NET Projects\\Book E-Commerce App\\Book-E-Commerce-App\\Book E-Commerce\\Book.Models\\ShoppingCart.cs",
-              "RelativeDocumentMoniker": "Book.Models\\ShoppingCart.cs",
-              "ToolTip": "E:\\.NET Projects\\Book E-Commerce App\\Book-E-Commerce-App\\Book E-Commerce\\Book.Models\\ShoppingCart.cs",
-              "RelativeToolTip": "Book.Models\\ShoppingCart.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-19T09:41:56.442Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "E:\\.NET Projects\\Book E-Commerce App\\Book-E-Commerce-App\\Book E-Commerce\\Book E-Commerce\\Areas\\Customer\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "Book E-Commerce\\Areas\\Customer\\Controllers\\HomeController.cs",
-              "ToolTip": "E:\\.NET Projects\\Book E-Commerce App\\Book-E-Commerce-App\\Book E-Commerce\\Book E-Commerce\\Areas\\Customer\\Controllers\\HomeController.cs*",
-              "RelativeToolTip": "Book E-Commerce\\Areas\\Customer\\Controllers\\HomeController.cs*",
-              "ViewState": "AgIAACoAAAAAAAAAAAAuwC4AAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-19T09:30:16.083Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Program.cs",
-              "DocumentMoniker": "E:\\.NET Projects\\Book E-Commerce App\\Book-E-Commerce-App\\Book E-Commerce\\Book E-Commerce\\Program.cs",
-              "RelativeDocumentMoniker": "Book E-Commerce\\Program.cs",
-              "ToolTip": "E:\\.NET Projects\\Book E-Commerce App\\Book-E-Commerce-App\\Book E-Commerce\\Book E-Commerce\\Program.cs",
-              "RelativeToolTip": "Book E-Commerce\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAABUAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-19T09:05:29.886Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "ApplicationDbContext.cs",
-              "DocumentMoniker": "E:\\.NET Projects\\Book E-Commerce App\\Book-E-Commerce-App\\Book E-Commerce\\Book.DataAccess\\Data\\ApplicationDbContext.cs",
-              "RelativeDocumentMoniker": "Book.DataAccess\\Data\\ApplicationDbContext.cs",
-              "ToolTip": "E:\\.NET Projects\\Book E-Commerce App\\Book-E-Commerce-App\\Book E-Commerce\\Book.DataAccess\\Data\\ApplicationDbContext.cs",
-              "RelativeToolTip": "Book.DataAccess\\Data\\ApplicationDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAA1AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-19T08:56:48.493Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Details.cshtml",
-              "DocumentMoniker": "E:\\.NET Projects\\Book E-Commerce App\\Book-E-Commerce-App\\Book E-Commerce\\Book E-Commerce\\Areas\\Customer\\Views\\Home\\Details.cshtml",
-              "RelativeDocumentMoniker": "Book E-Commerce\\Areas\\Customer\\Views\\Home\\Details.cshtml",
-              "ToolTip": "E:\\.NET Projects\\Book E-Commerce App\\Book-E-Commerce-App\\Book E-Commerce\\Book E-Commerce\\Areas\\Customer\\Views\\Home\\Details.cshtml",
-              "RelativeToolTip": "Book E-Commerce\\Areas\\Customer\\Views\\Home\\Details.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAOAAAAAAAAAA==",
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "E:\\.NET Projects\\Book E-Commerce App\\Book-E-Commerce-App\\Book E-Commerce\\Book E-Commerce\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Book E-Commerce\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "E:\\.NET Projects\\Book E-Commerce App\\Book-E-Commerce-App\\Book E-Commerce\\Book E-Commerce\\Views\\Shared\\_Layout.cshtml*",
+              "RelativeToolTip": "Book E-Commerce\\Views\\Shared\\_Layout.cshtml*",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAADYAAAA6AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-19T08:25:57.069Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "ShoppingCartRepository.cs",
-              "DocumentMoniker": "E:\\.NET Projects\\Book E-Commerce App\\Book-E-Commerce-App\\Book E-Commerce\\Book.DataAccess\\Repository\\ShoppingCartRepository.cs",
-              "RelativeDocumentMoniker": "Book.DataAccess\\Repository\\ShoppingCartRepository.cs",
-              "ToolTip": "E:\\.NET Projects\\Book E-Commerce App\\Book-E-Commerce-App\\Book E-Commerce\\Book.DataAccess\\Repository\\ShoppingCartRepository.cs",
-              "RelativeToolTip": "Book.DataAccess\\Repository\\ShoppingCartRepository.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAADwvxcAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-19T08:18:22.814Z",
+              "WhenOpened": "2025-03-20T08:39:29.186Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "Repository.cs",
-              "DocumentMoniker": "E:\\.NET Projects\\Book E-Commerce App\\Book-E-Commerce-App\\Book E-Commerce\\Book.DataAccess\\Repository\\Repository.cs",
-              "RelativeDocumentMoniker": "Book.DataAccess\\Repository\\Repository.cs",
-              "ToolTip": "E:\\.NET Projects\\Book E-Commerce App\\Book-E-Commerce-App\\Book E-Commerce\\Book.DataAccess\\Repository\\Repository.cs",
-              "RelativeToolTip": "Book.DataAccess\\Repository\\Repository.cs",
-              "ViewState": "AgIAABgAAAAAAAAAAAA8wCwAAAAIAAAAAAAAAA==",
+              "Title": "Summary.cshtml",
+              "DocumentMoniker": "E:\\.NET Projects\\Book E-Commerce App\\Book-E-Commerce-App\\Book E-Commerce\\Book E-Commerce\\Areas\\Customer\\Views\\Cart\\Summary.cshtml",
+              "RelativeDocumentMoniker": "Book E-Commerce\\Areas\\Customer\\Views\\Cart\\Summary.cshtml",
+              "ToolTip": "E:\\.NET Projects\\Book E-Commerce App\\Book-E-Commerce-App\\Book E-Commerce\\Book E-Commerce\\Areas\\Customer\\Views\\Cart\\Summary.cshtml",
+              "RelativeToolTip": "Book E-Commerce\\Areas\\Customer\\Views\\Cart\\Summary.cshtml",
+              "ViewState": "AgIAADMAAAAAAAAAAAAAAAQAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-20T08:28:42.059Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "E:\\.NET Projects\\Book E-Commerce App\\Book-E-Commerce-App\\Book E-Commerce\\Book E-Commerce\\Areas\\Customer\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Book E-Commerce\\Areas\\Customer\\Views\\_ViewImports.cshtml",
+              "ToolTip": "E:\\.NET Projects\\Book E-Commerce App\\Book-E-Commerce-App\\Book E-Commerce\\Book E-Commerce\\Areas\\Customer\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Book E-Commerce\\Areas\\Customer\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-20T08:04:56.155Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ShoppingCart.cs",
+              "DocumentMoniker": "E:\\.NET Projects\\Book E-Commerce App\\Book-E-Commerce-App\\Book E-Commerce\\Book.Models\\ShoppingCart.cs",
+              "RelativeDocumentMoniker": "Book.Models\\ShoppingCart.cs",
+              "ToolTip": "E:\\.NET Projects\\Book E-Commerce App\\Book-E-Commerce-App\\Book E-Commerce\\Book.Models\\ShoppingCart.cs",
+              "RelativeToolTip": "Book.Models\\ShoppingCart.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAA0wB0AAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-19T08:16:25.839Z",
+              "WhenOpened": "2025-03-20T07:57:43.758Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "E:\\.NET Projects\\Book E-Commerce App\\Book-E-Commerce-App\\Book E-Commerce\\Book E-Commerce\\Areas\\Customer\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Book E-Commerce\\Areas\\Customer\\Controllers\\HomeController.cs",
+              "ToolTip": "E:\\.NET Projects\\Book E-Commerce App\\Book-E-Commerce-App\\Book E-Commerce\\Book E-Commerce\\Areas\\Customer\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Book E-Commerce\\Areas\\Customer\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAwwBoAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T06:53:37.087Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Register.cshtml.cs",
+              "DocumentMoniker": "E:\\.NET Projects\\Book E-Commerce App\\Book-E-Commerce-App\\Book E-Commerce\\Book E-Commerce\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "RelativeDocumentMoniker": "Book E-Commerce\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "ToolTip": "E:\\.NET Projects\\Book E-Commerce App\\Book-E-Commerce-App\\Book E-Commerce\\Book E-Commerce\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "RelativeToolTip": "Book E-Commerce\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "ViewState": "AgIAAIkAAAAAAAAAAAAwwJMAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T06:53:34.359Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "E:\\.NET Projects\\Book E-Commerce App\\Book-E-Commerce-App\\Book E-Commerce\\Book E-Commerce\\Areas\\Admin\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "Book E-Commerce\\Areas\\Admin\\Controllers\\ProductController.cs",
+              "ToolTip": "E:\\.NET Projects\\Book E-Commerce App\\Book-E-Commerce-App\\Book E-Commerce\\Book E-Commerce\\Areas\\Admin\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "Book E-Commerce\\Areas\\Admin\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAAG8AAAAAAAAAAAAQwHkAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T06:52:09.568Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CompanyController.cs",
+              "DocumentMoniker": "E:\\.NET Projects\\Book E-Commerce App\\Book-E-Commerce-App\\Book E-Commerce\\Book E-Commerce\\Areas\\Admin\\Controllers\\CompanyController.cs",
+              "RelativeDocumentMoniker": "Book E-Commerce\\Areas\\Admin\\Controllers\\CompanyController.cs",
+              "ToolTip": "E:\\.NET Projects\\Book E-Commerce App\\Book-E-Commerce-App\\Book E-Commerce\\Book E-Commerce\\Areas\\Admin\\Controllers\\CompanyController.cs",
+              "RelativeToolTip": "Book E-Commerce\\Areas\\Admin\\Controllers\\CompanyController.cs",
+              "ViewState": "AgIAADoAAAAAAAAAAAAzwEQAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T06:51:35.298Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
-              "Title": "CategoryRepository.cs",
-              "DocumentMoniker": "E:\\.NET Projects\\Book E-Commerce App\\Book-E-Commerce-App\\Book E-Commerce\\Book.DataAccess\\Repository\\CategoryRepository.cs",
-              "RelativeDocumentMoniker": "Book.DataAccess\\Repository\\CategoryRepository.cs",
-              "ToolTip": "E:\\.NET Projects\\Book E-Commerce App\\Book-E-Commerce-App\\Book E-Commerce\\Book.DataAccess\\Repository\\CategoryRepository.cs",
-              "RelativeToolTip": "Book.DataAccess\\Repository\\CategoryRepository.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAUwBcAAAAIAAAAAAAAAA==",
+              "Title": "Repository.cs",
+              "DocumentMoniker": "E:\\.NET Projects\\Book E-Commerce App\\Book-E-Commerce-App\\Book E-Commerce\\Book.DataAccess\\Repository\\Repository.cs",
+              "RelativeDocumentMoniker": "Book.DataAccess\\Repository\\Repository.cs",
+              "ToolTip": "E:\\.NET Projects\\Book E-Commerce App\\Book-E-Commerce-App\\Book E-Commerce\\Book.DataAccess\\Repository\\Repository.cs",
+              "RelativeToolTip": "Book.DataAccess\\Repository\\Repository.cs",
+              "ViewState": "AgIAADcAAAAAAAAAAADwvz8AAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-19T08:15:15.883Z",
+              "WhenOpened": "2025-03-20T06:46:48.315Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "E:\\.NET Projects\\Book E-Commerce App\\Book-E-Commerce-App\\Book E-Commerce\\Book.DataAccess\\Repository\\IRepository\\IRepository.cs",
+              "RelativeDocumentMoniker": "Book.DataAccess\\Repository\\IRepository\\IRepository.cs",
+              "ToolTip": "E:\\.NET Projects\\Book E-Commerce App\\Book-E-Commerce-App\\Book E-Commerce\\Book.DataAccess\\Repository\\IRepository\\IRepository.cs",
+              "RelativeToolTip": "Book.DataAccess\\Repository\\IRepository\\IRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T06:46:30.749Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "E:\\.NET Projects\\Book E-Commerce App\\Book-E-Commerce-App\\Book E-Commerce\\Book E-Commerce\\Areas\\Admin\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "Book E-Commerce\\Areas\\Admin\\Controllers\\CategoryController.cs",
+              "ToolTip": "E:\\.NET Projects\\Book E-Commerce App\\Book-E-Commerce-App\\Book E-Commerce\\Book E-Commerce\\Areas\\Admin\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "Book E-Commerce\\Areas\\Admin\\Controllers\\CategoryController.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAA/wBUAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T06:13:07.068Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ShoppingCartVM.cs",
+              "DocumentMoniker": "E:\\.NET Projects\\Book E-Commerce App\\Book-E-Commerce-App\\Book E-Commerce\\Book.Models\\ViewModels\\ShoppingCartVM.cs",
+              "RelativeDocumentMoniker": "Book.Models\\ViewModels\\ShoppingCartVM.cs",
+              "ToolTip": "E:\\.NET Projects\\Book E-Commerce App\\Book-E-Commerce-App\\Book E-Commerce\\Book.Models\\ViewModels\\ShoppingCartVM.cs",
+              "RelativeToolTip": "Book.Models\\ViewModels\\ShoppingCartVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T06:41:00.101Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\.NET Projects\\Book E-Commerce App\\Book-E-Commerce-App\\Book E-Commerce\\Book E-Commerce\\Areas\\Customer\\Views\\Cart\\Index.cshtml",
+              "RelativeDocumentMoniker": "Book E-Commerce\\Areas\\Customer\\Views\\Cart\\Index.cshtml",
+              "ToolTip": "E:\\.NET Projects\\Book E-Commerce App\\Book-E-Commerce-App\\Book E-Commerce\\Book E-Commerce\\Areas\\Customer\\Views\\Cart\\Index.cshtml",
+              "RelativeToolTip": "Book E-Commerce\\Areas\\Customer\\Views\\Cart\\Index.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAADAAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-20T06:24:00.694Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CartController.cs",
+              "DocumentMoniker": "E:\\.NET Projects\\Book E-Commerce App\\Book-E-Commerce-App\\Book E-Commerce\\Book E-Commerce\\Areas\\Customer\\Controllers\\CartController.cs",
+              "RelativeDocumentMoniker": "Book E-Commerce\\Areas\\Customer\\Controllers\\CartController.cs",
+              "ToolTip": "E:\\.NET Projects\\Book E-Commerce App\\Book-E-Commerce-App\\Book E-Commerce\\Book E-Commerce\\Areas\\Customer\\Controllers\\CartController.cs*",
+              "RelativeToolTip": "Book E-Commerce\\Areas\\Customer\\Controllers\\CartController.cs*",
+              "ViewState": "AgIAAEMAAAAAAAAAAAAuwFEAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T06:23:36.807Z",
               "EditorCaption": ""
             }
           ]
